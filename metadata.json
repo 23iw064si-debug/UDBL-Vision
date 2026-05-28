@@ -1,0 +1,6 @@
+{
+  "name": "UDBL VISION",
+  "description": "Application académique et de paiement officielle pour les étudiants de l'UDBL",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
